@@ -34,7 +34,7 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 - 😄 Pronouns: **he/him**
 
 #### Tools of the trade
-<img src="https://img.shields.io/badge/elementary OS-white?logo=elementary&style=for-the-badge"> <img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge"> <img src="https://img.shields.io/badge/Xfce-white?logo=xfce&style=for-the-badge">
+<img src="https://img.shields.io/badge/elementary OS-white?logo=elementary&style=for-the-badge"> <img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge"> <img src="https://img.shields.io/badge/Xfce-333333?logo=xfce&style=for-the-badge">
 <img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge">
 
 <br>
