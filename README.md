@@ -52,6 +52,8 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
   <img src="https://img.shields.io/badge/PayPal-One Time Tip-blue?logo=paypal&style=for-the-badge">
 </a>
 
+<br>
+
 <a href="https://github.com/sponsors/bluesabre">
   Sponsor me on GitHub
 </a>
