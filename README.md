@@ -20,13 +20,13 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 ##### Social
 <a href="https://twitter.com/bluesabredavis">
   <img src="https://img.shields.io/badge/Twitter-@bluesabredavis-blue?logo=twitter&style=social">
-</a> &nbsp;
+</a>
 <a href="https://www.facebook.com/bluesabre.org">
   <img src="https://img.shields.io/badge/Facebook-bluesabre.org-blue?logo=facebook&style=social">
-</a> &nbsp;
+</a>
 <a href="https://fosstodon.org/@bluesabre">
   <img src="https://img.shields.io/badge/Mastodon-@bluesabre@fosstodon.org-blue?logo=mastodon&style=social">
-</a> &nbsp;
+</a>
 <a href="https://www.linkedin.com/in/sean-davis-738b0429/">
   <img src="https://img.shields.io/badge/LinkedIn-Sean Davis-blue?logo=linkedin&style=social">
 </a>
