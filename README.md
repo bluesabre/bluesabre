@@ -33,6 +33,28 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 - 🏡 Homepage: <a href="https://bluesabre.org">bluesabre.org</a>
 - 😄 Pronouns: **he/him**
 
+#### Tools of the trade
+<img src="https://img.shields.io/badge/Apache-f49223?logo=apache&style=for-the-badge">
+<img src="https://img.shields.io/badge/c/c++-white?logo=c&style=for-the-badge">
+<img src="https://img.shields.io/badge/css-2565f1?logo=css3&style=for-the-badge">
+<img src="https://img.shields.io/badge/Digital Ocean-white?logo=digitalocean&style=for-the-badge">
+<img src="https://img.shields.io/badge/elementary OS-white?logo=elementary&style=for-the-badge">
+<img src="https://img.shields.io/badge/html5-white?logo=html5&style=for-the-badge">
+<img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge">
+<img src="https://img.shields.io/badge/jQuery-0769ad?logo=jquery&style=for-the-badge">
+<img src="https://img.shields.io/badge/Linode-white?logo=linode&style=for-the-badge">
+<img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge">
+<img src="https://img.shields.io/badge/MariaDB-4e629a?logo=mariadb&style=for-the-badge">
+<img src="https://img.shields.io/badge/nginx-white?logo=nginx&style=for-the-badge">
+<img src="https://img.shields.io/badge/php-white?logo=php&style=for-the-badge">
+<img src="https://img.shields.io/badge/python-ffd343?logo=python&style=for-the-badge">
+<img src="https://img.shields.io/badge/react-282c34?logo=react&style=for-the-badge">
+<img src="https://img.shields.io/badge/sass-white?logo=sass&style=for-the-badge">
+<img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge">
+<img src="https://img.shields.io/badge/vala-403757?logo=gnome&style=for-the-badge">
+<img src="https://img.shields.io/badge/vscode-007ACC?logo=visual studio code&style=for-the-badge">
+<img src="https://img.shields.io/badge/Vue-35495e?logo=vue.js&style=for-the-badge">
+
 #### Code
 <a href="https://github.com/bluesabre">
   <img src="https://img.shields.io/badge/GitHub-bluesabre-blue?logo=github&style=for-the-badge">
