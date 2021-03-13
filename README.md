@@ -52,7 +52,7 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 <img src="https://img.shields.io/badge/sass-white?logo=sass&style=for-the-badge">
 <img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge">
 <img src="https://img.shields.io/badge/vala-403757?logo=gnome&style=for-the-badge">
-<img src="https://img.shields.io/badge/vscode-007ACC?logo=visual studio code&style=for-the-badge">
+<img src="https://img.shields.io/badge/vscode-007ACC?logo=visual%20studio%20code&style=for-the-badge">
 <img src="https://img.shields.io/badge/Vue-35495e?logo=vue.js&style=for-the-badge">
 
 #### Code
@@ -68,15 +68,12 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 
 #### Support
 
+<a href="https://github.com/sponsors/bluesabre">
+  <img src="https://img.shields.io/badge/GitHub-Sponsor Me-blue?logo=Github%20Sponsors&style=for-the-badge">
+</a>
 <a href="https://www.patreon.com/bluesabre">
   <img src="https://img.shields.io/badge/Patreon-Become a Patron-blue?logo=patreon&style=for-the-badge">
 </a>
 <a href="https://paypal.me/bluesabre">
   <img src="https://img.shields.io/badge/PayPal-One Time Tip-blue?logo=paypal&style=for-the-badge">
-</a>
-
-<br>
-
-<a href="https://github.com/sponsors/bluesabre">
-  Sponsor me on GitHub
 </a>
