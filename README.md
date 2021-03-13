@@ -30,6 +30,7 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 - 💬 Ask me about **contributing to Xubuntu**
 - 🎮 My favorite games are **Mega Man Zero** and **Final Fantasy** (6-10, 15, and Tactics, not in that order)
 - 📺 I love anime and superhero movies
+- 🏡 Homepage: <a href="https://bluesabre.org">bluesabre.org</a>
 - 😄 Pronouns: **he/him**
 
 #### Code
