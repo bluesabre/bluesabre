@@ -39,7 +39,7 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 
 <br>
 
-<img src="https://img.shields.io/badge/Apache-f49223?logo=apache&style=for-the-badge"> <img src="https://img.shields.io/badge/c/c++-FDF8F5?logo=c&style=for-the-badge">
+<img src="https://img.shields.io/badge/Apache-f49223?logo=apache&style=for-the-badge"> <img src="https://img.shields.io/badge/c/c++-fafbfc?logo=c&style=for-the-badge">
 <img src="https://img.shields.io/badge/css-2565f1?logo=css3&style=for-the-badge">
 <img src="https://img.shields.io/badge/Digital Ocean-fafbfc?logo=digitalocean&style=for-the-badge">
 <img src="https://img.shields.io/badge/html5-fafbfc?logo=html5&style=for-the-badge">
