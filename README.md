@@ -58,20 +58,20 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
   <img src="https://img.shields.io/badge/GitHub-bluesabre-blue?logo=github&style=for-the-badge">
 </a>
 <a href="https://launchpad.net/~bluesabre">
-  <img src="https://img.shields.io/badge/Launchpad-bluesabre-blue?logo=launchpad&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Launchpad-bluesabre-f8c302?logo=launchpad&style=for-the-badge">
 </a>
 <a href="https://gitlab.xfce.org/bluesabre">
-  <img src="https://img.shields.io/badge/Xfce-@bluesabre-blue?logo=gitlab&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Xfce-@bluesabre-01aade?logo=gitlab&style=for-the-badge">
 </a>
 
 #### Support
 
 <a href="https://github.com/sponsors/bluesabre">
-  <img src="https://img.shields.io/badge/GitHub-Sponsor Me-blue?logo=Github%20Sponsors&style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-Sponsor Me-ea4aaa?logo=Github%20Sponsors&style=for-the-badge">
 </a>
 <a href="https://www.patreon.com/bluesabre">
-  <img src="https://img.shields.io/badge/Patreon-Become a Patron-blue?logo=patreon&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Patreon-Become a Patron-ff424d?logo=patreon&style=for-the-badge">
 </a>
 <a href="https://paypal.me/bluesabre">
-  <img src="https://img.shields.io/badge/PayPal-One Time Tip-blue?logo=paypal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/PayPal-One Time Tip-27346a?logo=paypal&style=for-the-badge">
 </a>
