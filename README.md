@@ -35,10 +35,7 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 
 #### Tools of the trade
 <img src="https://img.shields.io/badge/elementary OS-fafbfc?logo=elementary&style=for-the-badge"> <img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge"> <img src="https://img.shields.io/badge/Xfce-333333?logo=xfce&style=for-the-badge">
-<img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge">
-
-<br>
-
+<img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge"> \
 <img src="https://img.shields.io/badge/Apache-f49223?logo=apache&style=for-the-badge"> <img src="https://img.shields.io/badge/c/c++-fafbfc?logo=c&style=for-the-badge">
 <img src="https://img.shields.io/badge/css-2565f1?logo=css3&style=for-the-badge">
 <img src="https://img.shields.io/badge/Digital Ocean-fafbfc?logo=digitalocean&style=for-the-badge">
