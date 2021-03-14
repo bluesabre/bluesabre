@@ -1,5 +1,8 @@
 ### Hey there 👋, I'm Sean Davis!
 
+🏡 <a href="https://bluesabre.org">bluesabre.org</a> &emsp;
+🌐 <a href="https://planet.bluesabre.org">Planet Bluesabre</a>
+
 <a href="https://twitter.com/bluesabredavis">
   <img src="https://img.shields.io/badge/Twitter-@bluesabredavis-blue?logo=twitter&style=social">
 </a>
@@ -30,8 +33,7 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 - 💬 Ask me about **contributing to Xubuntu**
 - 🎮 My favorite games are **Mega Man Zero** and **Final Fantasy** (6-10, 15, and Tactics, not in that order)
 - 📺 I love anime and superhero movies
-- 🏡 Homepage: <a href="https://bluesabre.org">bluesabre.org</a>
-- 😄 Pronouns: **he/him**
+- 🙂 Pronouns: **he/him**
 
 #### Tools of the trade
 <img src="https://img.shields.io/badge/elementary OS-fafbfc?logo=elementary&style=for-the-badge"> <img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge"> <img src="https://img.shields.io/badge/Xfce-333333?logo=xfce&style=for-the-badge">
