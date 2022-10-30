@@ -9,8 +9,8 @@
 <a href="https://www.facebook.com/bluesabre.org">
   <img src="https://img.shields.io/badge/Facebook-bluesabre.org-blue?logo=facebook&style=social">
 </a>
-<a href="https://fosstodon.org/@bluesabre">
-  <img src="https://img.shields.io/badge/Mastodon-@bluesabre@fosstodon.org-blue?logo=mastodon&style=social">
+<a rel="me" href="https://floss.social/@bluesabre">
+  <img src="https://img.shields.io/badge/Mastodon-@bluesabre@floss.social-blue?logo=mastodon&style=social">
 </a>
 <a href="https://www.linkedin.com/in/sean-davis-738b0429/">
   <img src="https://img.shields.io/badge/LinkedIn-Sean Davis-blue?logo=linkedin&style=social">
