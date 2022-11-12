@@ -71,9 +71,9 @@ In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, Jav
 <a href="https://github.com/sponsors/bluesabre">
   <img src="https://img.shields.io/badge/GitHub-Sponsor Me-ea4aaa?logo=Github%20Sponsors&style=for-the-badge">
 </a>
+<a href="https://liberapay.com/bluesabre/donate">
+  <img src="https://img.shields.io/badge/Liberapay-Donate-f4c92e?logo=liberapay&style=for-the-badge">
+</a>
 <a href="https://www.patreon.com/bluesabre">
   <img src="https://img.shields.io/badge/Patreon-Become a Patron-ff424d?logo=patreon&style=for-the-badge">
-</a>
-<a href="https://paypal.me/bluesabre">
-  <img src="https://img.shields.io/badge/PayPal-One Time Tip-27346a?logo=paypal&style=for-the-badge">
 </a>
