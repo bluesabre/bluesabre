@@ -1,79 +1,36 @@
-### Hey there 👋, I'm Sean Davis!
+# Hi there, I'm Sean Davis!
 
-🏡 <a href="https://bluesabre.org">bluesabre.org</a> &emsp;
-🌐 <a href="https://planet.bluesabre.org">Planet Bluesabre</a>
+I’m a Linux enthusiast and open source contributor dedicated to building software that empowers people and strengthens communities. As the Technical Lead for [Xubuntu](https://xubuntu.org) and a core developer for [Xfce](https://xfce.org), I work to make the Linux desktop more accessible, reliable, and delightful.
 
-<a href="https://twitter.com/bluesabredavis">
-  <img src="https://img.shields.io/badge/Twitter-@bluesabredavis-blue?logo=twitter&style=social">
-</a>
-<a href="https://www.facebook.com/bluesabre.org">
-  <img src="https://img.shields.io/badge/Facebook-bluesabre.org-blue?logo=facebook&style=social">
-</a>
-<a rel="me" href="https://floss.social/@bluesabre">
-  <img src="https://img.shields.io/badge/Mastodon-@bluesabre@floss.social-blue?logo=mastodon&style=social">
-</a>
-<a href="https://www.linkedin.com/in/sean-davis-738b0429/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sean Davis-blue?logo=linkedin&style=social">
-</a>
+🌱 My journey in open source started in 2012, and I’m still driven by the same principles: transparency, collaboration, and the belief that technology should work *for* people, not the other way around.
 
-<hr>
+🌟 Beyond Xubuntu and Xfce, I contribute to the wider Ubuntu and elementary OS communities, and I’m always exploring new tools and ideas—currently diving deeper into Vala and Flatpak.
 
-I'm a long-time contributor to FOSS projects such as Xfce and Xubuntu. Recently, I've started hacking on elementary OS as well.
+💡 I love sharing what I learn and helping others grow. If you’re curious about contributing to open source or just want to connect, I’d be glad to hear from you!
 
-- 🎩 Xfce Core Developer
-- 🎩 Xubuntu Technical Lead
-- 🎩 Xubuntu Council
+---
 
-In the not-so-FOSS world, I'm a full stack web developer juggling PHP, HTML, JavaScript, and increasingly, React on iOS and Android.
+### 🔧 Tools & Tech
 
-#### More about me
+- **Languages**: PHP, JavaScript, Python, C, Kotlin, Vala
+- **Frameworks & Libraries**: Laravel, React, React Native, Next.js, Handlebars, jQuery, Hugo, Electron
+- **DevOps & CI/CD**: GitHub Actions, Docker, Cloudflare
+- **Hosting & Deployment**: Linode, Netlify, Vercel
+- **Operating Systems**: Ubuntu, Fedora (including Silverblue), macOS
+- **Virtualization**: VMWare Workstation, QEMU/KVM
+- **Databases**: MySQL
+- **Devices & Platforms**: Raspberry Pi, iOS, Android
 
-- 🔭 I’m currently working on **improving 3rd-party apps on elementary OS**
-- 🌱 I’m currently learning **Vala** and **Flatpak packaging**
-- 💬 Ask me about **contributing to Xubuntu**
-- 🎮 My favorite games are **Mega Man Zero** and **Final Fantasy** (6-10, 15, and Tactics, not in that order)
-- 📺 I love anime and superhero movies
-- 🙂 Pronouns: **he/him**
+---
 
-#### Tools of the trade
-<img src="https://img.shields.io/badge/elementary OS-fafbfc?logo=elementary&style=for-the-badge"> <img src="https://img.shields.io/badge/ubuntu-77216F?logo=ubuntu&style=for-the-badge"> <img src="https://img.shields.io/badge/Xfce-333333?logo=xfce&style=for-the-badge">
-<img src="https://img.shields.io/badge/macOS-black?logo=apple&style=for-the-badge">
-<img src="https://img.shields.io/badge/Apache-f49223?logo=apache&style=for-the-badge"> <img src="https://img.shields.io/badge/c/c++-fafbfc?logo=c&style=for-the-badge">
-<img src="https://img.shields.io/badge/css-2565f1?logo=css3&style=for-the-badge">
-<img src="https://img.shields.io/badge/Digital Ocean-fafbfc?logo=digitalocean&style=for-the-badge">
-<img src="https://img.shields.io/badge/html5-fafbfc?logo=html5&style=for-the-badge">
-<img src="https://img.shields.io/badge/javascript-black?logo=javascript&style=for-the-badge">
-<img src="https://img.shields.io/badge/jQuery-0769ad?logo=jquery&style=for-the-badge">
-<img src="https://img.shields.io/badge/Linode-fafbfc?logo=linode&style=for-the-badge">
-<img src="https://img.shields.io/badge/MariaDB-4e629a?logo=mariadb&style=for-the-badge">
-<img src="https://img.shields.io/badge/nginx-fafbfc?logo=nginx&style=for-the-badge">
-<img src="https://img.shields.io/badge/php-fafbfc?logo=php&style=for-the-badge">
-<img src="https://img.shields.io/badge/python-ffd343?logo=python&style=for-the-badge">
-<img src="https://img.shields.io/badge/react-282c34?logo=react&style=for-the-badge">
-<img src="https://img.shields.io/badge/sass-fafbfc?logo=sass&style=for-the-badge">
-<img src="https://img.shields.io/badge/vala-403757?logo=gnome&style=for-the-badge">
-<img src="https://img.shields.io/badge/vscode-007ACC?logo=visual%20studio%20code&style=for-the-badge">
-<img src="https://img.shields.io/badge/Vue-35495e?logo=vue.js&style=for-the-badge">
+### 🌐 Let’s Connect
 
-#### Code
-<a href="https://github.com/bluesabre">
-  <img src="https://img.shields.io/badge/GitHub-bluesabre-blue?logo=github&style=for-the-badge">
-</a>
-<a href="https://launchpad.net/~bluesabre">
-  <img src="https://img.shields.io/badge/Launchpad-bluesabre-f8c302?logo=launchpad&style=for-the-badge">
-</a>
-<a href="https://gitlab.xfce.org/bluesabre">
-  <img src="https://img.shields.io/badge/Xfce-@bluesabre-01aade?logo=gitlab&style=for-the-badge">
-</a>
+- **Website**: [seand.xyz](https://seand.xyz)
+- **Mastodon**: [floss.social/@bluesabre](https://floss.social/@bluesabre)
+- **LinkedIn**: [Sean Davis](https://www.linkedin.com/in/sean-davis-738b0429)
 
-#### Support
+---
 
-<a href="https://github.com/sponsors/bluesabre">
-  <img src="https://img.shields.io/badge/GitHub-Sponsor Me-ea4aaa?logo=Github%20Sponsors&style=for-the-badge">
-</a>
-<a href="https://liberapay.com/bluesabre/donate">
-  <img src="https://img.shields.io/badge/Liberapay-Donate-f4c92e?logo=liberapay&style=for-the-badge">
-</a>
-<a href="https://www.patreon.com/bluesabre">
-  <img src="https://img.shields.io/badge/Patreon-Become a Patron-ff424d?logo=patreon&style=for-the-badge">
-</a>
+### 💖 Support My Work
+
+If you’d like to support my contributions to the open source community, consider becoming a [GitHub Sponsor](https://github.com/sponsors/bluesabre). Your support fuels my work on Xubuntu, Xfce, and projects that make Linux better for everyone. Thank you for helping me build a more open, empowered digital world!
